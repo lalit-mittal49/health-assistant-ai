@@ -258,3 +258,11 @@ cd backend
 ## 📄 License
 
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 👨‍💻 Author
+
+**Lalit Mittal** — AI / GenAI & Full-Stack Developer  
+- GitHub: [@lalit-mittal49](https://github.com/lalit-mittal49)  
+- LinkedIn: [linkedin.com/in/mittal-lalit](https://www.linkedin.com/in/mittal-lalit)
